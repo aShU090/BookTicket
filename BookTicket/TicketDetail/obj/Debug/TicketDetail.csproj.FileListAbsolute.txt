@@ -1,0 +1,20 @@
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\obj\Debug\TicketDetail.csprojResolveAssemblyReference.cache
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.TicketDetail.exe.config
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.TicketDetail.exe
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.TicketDetail.pdb
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\obj\Debug\Apttus.MovieTicket.TicketDetail.exe
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\obj\Debug\Apttus.MovieTicket.TicketDetail.pdb
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\bin\Debug\Apttus.Assignment.MovieTicket.dll
+c:\users\ssingh\documents\visual studio 2017\Projects\MovieTicket\TicketDetail\bin\Debug\Apttus.Assignment.MovieTicket.pdb
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Database.mdf
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Database_log.ldf
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.TicketDetail.exe.config
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.TicketDetail.exe
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.TicketDetail.pdb
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.Assignment.MovieTicket.dll
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.Assignment.MovieTicket.pdb
+C:\Data\MovieTicket\TicketDetail\obj\Debug\TicketDetail.csprojResolveAssemblyReference.cache
+C:\Data\MovieTicket\TicketDetail\obj\Debug\Apttus.MovieTicket.TicketDetail.exe
+C:\Data\MovieTicket\TicketDetail\obj\Debug\Apttus.MovieTicket.TicketDetail.pdb
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.DAL.dll
+C:\Data\MovieTicket\TicketDetail\bin\Debug\Apttus.MovieTicket.DAL.pdb
